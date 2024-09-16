@@ -1,0 +1,8 @@
+[package]
+name = "vid_cat"
+description = "concatenate a directory of videos save into one in cwd"
+version = "0.1.0"
+edition = "2021"
+license = "GNU GPLv3"
+author = "Nestor Wheelock"
+[dependencies]
